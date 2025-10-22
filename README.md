@@ -4,7 +4,7 @@
 We are currently recruiting **closed testers** for our Android app **“Himawari Books”**, available through **Google Play Console’s Closed Test** program.
 
 If you are interested in joining, please fill out the following form:  
-👉 [**Apply via Google Form**](https://forms.gle/zbpeB2HVwR6C4QPZ8)
+👉 [**Apply via Google Form**](https://forms.gle/r3A6H7Yss53P9ac58)
 
 > ⚠️ Please make sure to sign in with the **Google account** you use on your Android device.  
 > We will send the official testing invitation link to that account.
@@ -24,7 +24,7 @@ Thank you for helping us improve the app! 🌻
 **Google Play クローズドテスト** にご参加いただけるテスターを募集しています。
 
 参加をご希望の方は、以下のフォームからお申し込みください：  
-👉 [**Googleフォームから応募**](https://forms.gle/zbpeB2HVwR6C4QPZ8)
+👉 [**Googleフォームから応募**](https://forms.gle/r3A6H7Yss53P9ac58)
 
 > ⚠️ Androidで使用している **Googleアカウント** でサインインしてください。  
 > 招待URLは、そのアカウント宛てにお送りします。
